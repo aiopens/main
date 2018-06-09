@@ -229,8 +229,8 @@ background: none;
 
 .navbar-brand b {
     color: #fff;
-	/*font-family: 'Pacifico', cursive;*/
-	font-family: 'Arial', cursive;
+	font-family: 'Pacifico', cursive;
+/*	font-family: 'Arial', cursive;*/
 	font-weight:400;
 }
 
