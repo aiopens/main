@@ -63,7 +63,8 @@ p {
     }
 
 a {
-    color: #CC4646;
+    /*color: #CC4646;*/
+    color: #0000FF;
     text-decoration: none;
     text-shadow: none;
     -webkit-transition: all 0.2s linear;
@@ -125,7 +126,7 @@ margin: 4px;
 .header {
     position: fixed;
     width: 100%;
-    background: #CC4646;
+    background: #3366CC;
     z-index: 50;
     border-radius: 0;
     top: 0px;
@@ -228,7 +229,8 @@ background: none;
 
 .navbar-brand b {
     color: #fff;
-	font-family: 'Pacifico', cursive;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Arial', cursive;
 	font-weight:400;
 }
 
