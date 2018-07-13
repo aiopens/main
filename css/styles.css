@@ -109,6 +109,17 @@ background: #E24040;
     position: relative;
 }
 
+.topHomeLeft {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 5;
+    font-style: italic;
+    font-weight: bold;
+    background: #A3D1D1;
+}
+
+
 .topHome {
     position: fixed;
     bottom: 20px;
